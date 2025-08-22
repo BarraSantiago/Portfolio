@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2f10e75-4279-4806-94e3-4ade4dcaa11a" name="Changes" comment="Init repo">
-      <change afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resume - Santiago Barra old.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +78,8 @@
       <updated>1755731886386</updated>
       <workItem from="1755731887374" duration="202000" />
       <workItem from="1755732159907" duration="3655000" />
-      <workItem from="1755823184791" duration="4227000" />
+      <workItem from="1755823184791" duration="5622000" />
+      <workItem from="1755873424783" duration="1012000" />
     </task>
     <task id="LOCAL-00001" summary="Init repo">
       <option name="closed" value="true" />

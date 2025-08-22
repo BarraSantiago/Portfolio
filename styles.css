@@ -278,3 +278,53 @@ footer {
     height: auto;
     border-radius: 4px;
 }
+
+/* Fix centering for education and community sections */
+#additional-info {
+    text-align: center;
+}
+
+.education-section,
+.community-section {
+    margin: 3rem 0;
+}
+
+.education-section h2,
+.community-section h2 {
+    margin-bottom: 2rem;
+}
+
+.education-timeline,
+.community-timeline {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.5rem;
+}
+
+.education-item,
+.community-item {
+    max-width: 600px;
+    text-align: center;
+}
+
+/* Style links in video descriptions */
+.video-card p a,
+.video-card a {
+    color: #007bff;
+    text-decoration: underline;
+    transition: color 0.3s ease;
+}
+
+.video-card p a:hover,
+.video-card a:hover {
+    color: #0056b3;
+    text-decoration: none;
+}
+
+/* Make sure video description links are clickable */
+.video-card p:last-child {
+    margin-top: 0.5rem;
+    font-size: 0.9rem;
+    word-break: break-all;
+}
